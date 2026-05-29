@@ -1,0 +1,123 @@
+[
+  {
+    "index": 0,
+    "title": "Equipo de Inteligencia Artificial",
+    "short": "Equipo",
+    "type": "team",
+    "summary": "Portada del portfolio 2026 y presentacion visual del equipo de IA.",
+    "sections": [],
+    "projects": []
+  },
+  {
+    "index": 1,
+    "title": "Proyectos en desarrollo",
+    "short": "Indice",
+    "type": "index",
+    "summary": "Vista general de los seis proyectos del portfolio 2026.",
+    "sections": [],
+    "projects": [
+      {
+        "name": "T-Eyes",
+        "go": 2
+      },
+      {
+        "name": "T-Tubes",
+        "go": 3
+      },
+      {
+        "name": "T-W",
+        "go": 4
+      },
+      {
+        "name": "Terry",
+        "go": 5
+      },
+      {
+        "name": "T-Lens",
+        "go": 6
+      },
+      {
+        "name": "Cashflow",
+        "go": 7
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "T-Eyes",
+    "short": "T-Eyes",
+    "type": "project",
+    "summary": "Pasar de validacion tecnica a despliegue en linea, con trazabilidad, indicadores y automatizacion gradual.",
+    "sections": [
+      "Pasos inmediatos",
+      "Mejoras",
+      "Futuro"
+    ],
+    "projects": []
+  },
+  {
+    "index": 3,
+    "title": "T-Tubes",
+    "short": "T-Tubes",
+    "type": "project",
+    "summary": "Estabilizar la operacion, cerrar indicadores pendientes y evolucionar hacia trazabilidad, tableros y asistencia inteligente.",
+    "sections": [
+      "Pasos inmediatos",
+      "Mejoras",
+      "Futuro"
+    ],
+    "projects": []
+  },
+  {
+    "index": 4,
+    "title": "T-W",
+    "short": "T-W",
+    "type": "project",
+    "summary": "Cerrar la version inicial sobre IT261YS, validar rechazo fisico y preparar el escalado a nuevos pliegos.",
+    "sections": [
+      "Pasos inmediatos",
+      "Mejoras",
+      "Futuro"
+    ],
+    "projects": []
+  },
+  {
+    "index": 5,
+    "title": "Terry",
+    "short": "Terry",
+    "type": "project",
+    "summary": "Migracion a nube, medicion de satisfaccion, derivacion a soporte, registro de casos y observabilidad operativa.",
+    "sections": [
+      "Pasos inmediatos",
+      "Mejoras",
+      "Futuro"
+    ],
+    "projects": []
+  },
+  {
+    "index": 6,
+    "title": "T-Lens",
+    "short": "T-Lens",
+    "type": "project",
+    "summary": "Construir base de imagenes, validar modelos de clasificacion y preparar integracion productiva con monitoreo continuo.",
+    "sections": [
+      "Pasos inmediatos",
+      "Mejoras",
+      "Futuro"
+    ],
+    "projects": []
+  },
+  {
+    "index": 7,
+    "title": "Cashflow",
+    "short": "Cashflow",
+    "type": "project",
+    "summary": "Mejorar la medicion del error, estabilizar predicciones y avanzar hacia integracion con ERP y tablero gerencial.",
+    "sections": [
+      "Pasos inmediatos",
+      "Mejoras",
+      "Futuro"
+    ],
+    "projects": []
+  }
+]
